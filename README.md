@@ -8,7 +8,7 @@ The course consists of five projects, each designed to apply the key concepts of
 
 1. **Survey Form**  
    A form designed to collect user information with various input types and elements.  
-   [Live Demo]() | [<a href="https://github.com/Kelv48/FreeCodeCamp-Responsive-Web-Course/tree/main/Survey%20Form">Source Code</a>](#)
+   [Live Demo](https://kelv48.github.io/Survey-Form/) | [<a href="https://github.com/Kelv48/FreeCodeCamp-Responsive-Web-Course/tree/main/Survey%20Form">Source Code</a>](#)
 
 2. **Tribute Page**  
    A simple, responsive webpage that pays tribute to a notable figure.  
