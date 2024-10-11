@@ -12,7 +12,7 @@ The course consists of five projects, each designed to apply the key concepts of
 
 2. **Tribute Page**  
    A simple, responsive webpage that pays tribute to a notable figure.  
-   [Live Demo](#) | [Source Code](#)
+   [Live Demo](https://kelv48.github.io/Tribute-Page/) | [Source Code](https://github.com/Kelv48/Tribute-Page)
 
 3. **Technical Documentation Page**  
    A technical documentation page with navigational elements that adjust to different screen sizes.  
