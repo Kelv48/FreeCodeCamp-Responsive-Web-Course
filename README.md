@@ -6,22 +6,22 @@ This repository contains all the projects I have completed as part of the **[Fre
 
 The course consists of five projects, each designed to apply the key concepts of responsive web design. You can explore each project by clicking on its respective link below. All projects are fully responsive, adhering to FreeCodeCamp's project guidelines.
 
-1. **Tribute Page**  
+1. **Survey Form**  
+   A form designed to collect user information with various input types and elements.  
+   [Live Demo](#) Setup when done| [<a href="">Source Code</a>](#)
+
+2. **Tribute Page**  
    A simple, responsive webpage that pays tribute to a notable figure.  
    [Live Demo](#) | [Source Code](#)
 
-2. **Survey Form**  
-   A form designed to collect user information with various input types and elements.  
-   [Live Demo](#) | [Source Code](#)
-
-3. **Product Landing Page**  
-   A landing page designed to promote a product or service, using flexbox and media queries for responsiveness.  
-   [Live Demo](#) | [Source Code](#)
-
-4. **Technical Documentation Page**  
+3. **Technical Documentation Page**  
    A technical documentation page with navigational elements that adjust to different screen sizes.  
    [Live Demo](#) | [Source Code](#)
 
+4. **Product Landing Page**  
+   A landing page designed to promote a product or service, using flexbox and media queries for responsiveness.  
+   [Live Demo](#) | [Source Code](#)
+   
 5. **Personal Portfolio Webpage**  
    A portfolio webpage showcasing the work done throughout the course.  
    [Live Demo](#) | [Source Code](#)
