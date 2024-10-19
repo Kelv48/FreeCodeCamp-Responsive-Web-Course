@@ -16,7 +16,7 @@ The course consists of five projects, each designed to apply the key concepts of
 
 3. **Technical Documentation Page**  
    A technical documentation page with navigational elements that adjust to different screen sizes.  
-   [Live Demo](#) | [Source Code](#)
+   [Live Demo](https://kelv48.github.io/Technical-Documentation-Page/) | [Source Code](https://github.com/Kelv48/Technical-Documentation-Page)
 
 4. **Product Landing Page**  
    A landing page designed to promote a product or service, using flexbox and media queries for responsiveness.  
