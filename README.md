@@ -20,7 +20,7 @@ The course consists of five projects, each designed to apply the key concepts of
 
 4. **Product Landing Page**  
    A landing page designed to promote a product or service, using flexbox and media queries for responsiveness.  
-   [Live Demo](#) | [Source Code](#)
+   [Live Demo](https://kelv48.github.io/Product-Landing-Page/) | [Source Code](https://github.com/Kelv48/Product-Landing-Page)
    
 5. **Personal Portfolio Webpage**  
    A portfolio webpage showcasing the work done throughout the course.  
