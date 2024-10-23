@@ -24,7 +24,7 @@ The course consists of five projects, each designed to apply the key concepts of
    
 5. **Personal Portfolio Webpage**  
    A portfolio webpage showcasing the work done throughout the course.  
-   [Live Demo](#) | [Source Code](#)
+   [Live Demo](https://kelv48.github.io/Portfolio/) | [Source Code](https://github.com/Kelv48/Portfolio)
 
 ## Project Details
 
