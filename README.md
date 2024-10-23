@@ -3,7 +3,7 @@
 This repository contains all the projects I have completed as part of the **[FreeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/)** course. These projects demonstrate fundamental skills in HTML, CSS, and responsive design principles.
 
 ## Certification 
-[Certificate](https://github.com/Kelv48/FreeCodeCamp-Responsive-Web-Course/blob/main/Certification.png)
+![Certificate](https://github.com/Kelv48/FreeCodeCamp-Responsive-Web-Course/blob/main/Certification.png)
 
 ## Projects Overview
 
